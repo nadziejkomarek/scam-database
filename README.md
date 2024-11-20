@@ -1,3 +1,4 @@
+STS 
 # ScamSniffer - Web3 Scam Database
 Welcome to ScamSniffer's open-source repository, dedicated to combating crypto phishing threats. Our mission is to provide comprehensive and up-to-date blacklists of phishing domains and addresses to safeguard the crypto community.
 
